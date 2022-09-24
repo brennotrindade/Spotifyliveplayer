@@ -3,6 +3,9 @@
 
 # Environment variables
 .env
+SPOTIFY_REFRESH_TOKEN
+SPOTIFY_CLIENT_ID
+SPOTIFY_SECRET_ID
 
 # Pycache
 __pycache__
